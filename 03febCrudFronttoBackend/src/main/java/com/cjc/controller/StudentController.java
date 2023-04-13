@@ -19,7 +19,8 @@ public class StudentController {
 	
 	@RequestMapping(value = "/savedata",method = RequestMethod.POST)
 	public Student savedata(@RequestBody Student s)
-	{
+	
+	{//git practice changes
 		return ssr.savedata(s);
 	}
 	
