@@ -13,7 +13,7 @@ import com.cjc.service.StudentService;
 @CrossOrigin
 @RestController
 public class StudentController {
-
+//rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 	@Autowired
 	StudentService ssr;
 	
