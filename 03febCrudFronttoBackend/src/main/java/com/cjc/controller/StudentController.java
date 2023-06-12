@@ -16,6 +16,7 @@ public class StudentController {
 //rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 int x=10;
+int j=20;
 	@Autowired
 	StudentService ssr;
 	
