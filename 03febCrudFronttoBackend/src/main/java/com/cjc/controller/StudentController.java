@@ -14,6 +14,8 @@ import com.cjc.service.StudentService;
 @RestController
 public class StudentController {
 //rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+
+int x=10;
 	@Autowired
 	StudentService ssr;
 	
